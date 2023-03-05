@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
 
             } else {
 
-                Toast.makeText(applicationContext, "SLAYYY", Toast.LENGTH_LONG).show()
+                Toast.makeText(applicationContext, "თქვენ წარმატებით გაიარეთ რეგისტრაცია", Toast.LENGTH_LONG).show()
             }
         }
     }
